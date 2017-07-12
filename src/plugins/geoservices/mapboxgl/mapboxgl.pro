@@ -27,7 +27,7 @@ RESOURCES += mapboxgl.qrc
 OTHER_FILES += \
     mapboxgl_plugin.json
 
-INCLUDEPATH += ../../../3rdparty/mapbox-gl-native/platform/qt/include
+INCLUDEPATH += ../../../3rdparty/mapboxgl/platform/qt/include
 
 include(../../../3rdparty/zlib_dependency.pri)
 
